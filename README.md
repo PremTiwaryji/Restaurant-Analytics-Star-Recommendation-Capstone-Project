@@ -79,7 +79,7 @@ This helps in identifying top-performing restaurants for recommendations.
 
 ---
 
-### 📈 Business Impact
+## 📈 Business Impact
   * **Market Expansion:** Identified cities with high restaurant density (like New Delhi) vs. untapped markets.
   * **Revenue Optimization:** Discovered that restaurants offering Online Delivery receive significantly more votes, suggesting a clear path for revenue growth.
   * **Customer Satisfaction:** Analyzed the "Cost vs. Rating" correlation, helping businesses price their services competitively without losing rating quality.
@@ -87,7 +87,7 @@ This helps in identifying top-performing restaurants for recommendations.
 
 ---
 
-### 🧠 What I Learned
+## 🧠 What I Learned
   * Data cleaning and preprocessing techniques
   * Exploratory Data Analysis (EDA)
   * Data visualization best practices
