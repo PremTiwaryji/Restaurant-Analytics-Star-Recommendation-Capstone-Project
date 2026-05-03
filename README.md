@@ -4,4 +4,4 @@ A comprehensive data analysis project using Python and Tableau to uncover insigh
 ---
 
 ### Dashboard Preview
-![Dashboard](ProjectThumbnail.png)
+![Dashboard](Project_Thumbnail.png)
