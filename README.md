@@ -37,13 +37,13 @@ This project focuses on analyzing restaurant data to identify key factors influe
 
  ### 2. Exploratory Data Analysis (EDA)
    Performed deep analysis on:
-    * 🌍 Geographic distribution of restaurants
-    * 🍽️ Top cuisines across cities
-    * 🚚 Online delivery trends
-    * 📘 Table booking availability
-    * ⭐ Rating distribution
-    * 💰 Cost distribution
-    * 📊 Votes and customer engagement
+  * 🌍 Geographic distribution of restaurants
+  * 🍽️ Top cuisines across cities
+  * 🚚 Online delivery trends
+  * 📘 Table booking availability
+  * ⭐ Rating distribution
+  * 💰 Cost distribution
+  * 📊 Votes and customer engagement
 
 ---
 
