@@ -76,3 +76,20 @@ This helps in identifying top-performing restaurants for recommendations.
   * Restaurant Overview Dashboard
   * Rating Influencers Dashboard
   * Star Restaurant Dashboard
+
+---
+
+### 📈 Business Impact
+  * **Market Expansion:** Identified cities with high restaurant density (like New Delhi) vs. untapped markets.
+  * **Revenue Optimization:** Discovered that restaurants offering Online Delivery receive significantly more votes, suggesting a clear path for revenue growth.
+  * **Customer Satisfaction:** Analyzed the "Cost vs. Rating" correlation, helping businesses price their services competitively without losing rating quality.
+  * **Menu Strategy:** Highlighted the "Top 10 Cuisines" (e.g., North Indian, Chinese) to help new restaurants decide on their menu offerings.
+
+---
+
+### 🧠 What I Learned
+  * Data cleaning and preprocessing techniques
+  * Exploratory Data Analysis (EDA)
+  * Data visualization best practices
+  * Dashboard design using Tableau
+  * Business problem-solving using data
