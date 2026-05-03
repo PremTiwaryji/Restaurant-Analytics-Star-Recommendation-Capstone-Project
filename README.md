@@ -93,3 +93,15 @@ This helps in identifying top-performing restaurants for recommendations.
   * Data visualization best practices
   * Dashboard design using Tableau
   * Business problem-solving using data
+
+---
+
+## 🔗 Author 
+**Name:** Prem Tiwary  
+**Email:** premtiwary7050@gmail.com 
+**LinkedIn:** www.linkedin.com/in/prem-tiwary
+
+---
+
+## License
+This repository is for demonstration and learning purposes. Feel free to reuse the code with attribution.
